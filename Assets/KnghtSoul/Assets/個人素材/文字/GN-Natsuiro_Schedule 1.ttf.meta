@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: e91569d606053a748b7f0044fbb09ad7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GN-Natsu-iro Schedule
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bbf41fa3c1ee04a468c828f075f9fcd5, type: 3}
+  - {fileID: 12800000, guid: a35694e3ab501a948a7a14767b071b46, type: 3}
+  - {fileID: 12800000, guid: 4a3e807d9c2f45545b0e0e3a4536d258, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

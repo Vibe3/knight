@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 21366182b415e5144a6371464fc863e6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GN-Kyu-pin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cdd8dffd380e6a743adb887b4a2b210d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

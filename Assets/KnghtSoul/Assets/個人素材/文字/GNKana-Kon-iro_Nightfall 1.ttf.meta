@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d33eaba480d07e84ebb7dfe6c72469a0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GNKana-Kon-iro Nightfall
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0212cf70a9453f34d8a1b5c47e7949ff, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

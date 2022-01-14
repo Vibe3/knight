@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: deef3adde5d9ddc4e8b7b1a6a51bfdb3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Source Han Serif TW
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 003a867ee896c63488a23107957fc3b5, type: 3}
+  - {fileID: 12800000, guid: c1f001bbdbf817f4f8f1e702c9a14ec4, type: 3}
+  - {fileID: 12800000, guid: 37b2675aa729fd64c97c3357e70b3c49, type: 3}
+  - {fileID: 12800000, guid: 7e7218a75e6672646be4b6f9d5d74e3c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
